@@ -1,3 +1,11 @@
 Quiz 11: define an exponential family and show that the parameters are asymptotically normal
 Author: Daria Fitisova
 
+- general formalization of EF
+- Poisson distribution example
+- moments of EF
+- mean and variance of Poisson 
+- maximum likelihood estimator of the mean parameter in EF
+- asymptotic normality
+- MLE of Poisson 
+- MLE general case
